@@ -6,21 +6,23 @@ The dashboard compares two consecutive years (2020 and 2021) to transform static
 
 ---
 
-## 📸 Dashboard Preview
-*(اعرض هنا الصور المختلفة للداشبورد. احصل على لينك كل صورة بنفس طريقة "Copy Image Address")*
+## 📸 Dashboard Preview*
 
-### Page 1: Executive Sales Summary
+
+### Page 1 : Smart Geographical Analysis
+![Regional Analysis](https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.2.png?raw=true)
+
+### Page 2: Executive Sales Summary
 ![Sales Overview](
-https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.2.png?raw=true)
+https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.1.png?raw=true)
 
-### Page 2: Smart Geographical Analysis
-![Regional Analysis]([PASTE-IMAGE-LINK-FOR-PAGE-2-HERE](https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.3.png?raw=true))
 
 ### Page 3: Product Analysis
-![Product Analysis]([PASTE-IMAGE-LINK-FOR-PAGE-3-HERE](https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.1.png?raw=true))
+![Product Analysis](
+https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.3.png?raw=true)
 
 ### Page 4: Pricing and Consumer Behavior
-![Pricing Analysis]([PASTE-IMAGE-LINK-FOR-PAGE-4-HERE](https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.4.png?raw=true))
+![Pricing Analysis](https://github.com/zeyad0magdy/Adidas-Sales-Analysis/blob/main/5.4.png?raw=true)
 
 
 ---
